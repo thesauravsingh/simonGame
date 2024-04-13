@@ -1,4 +1,4 @@
-# SimonGame
+# Simon Game
 
 # Description
 This project is a digital version of the classic Simon game, where players must repeat a sequence of button presses. The game tests the player's memory and responsiveness as the sequences become increasingly longer and more complex.
